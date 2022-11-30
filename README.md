@@ -4,7 +4,7 @@ A Pizza Site built with React.
 
 ## Demo
 
-[Link](https://pizzaforpresident.vercel.app/)
+[Link](https://pizza-for-president.vercel.app/)
 
 ## Getting Started
 
