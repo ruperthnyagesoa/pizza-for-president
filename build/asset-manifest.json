@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/static/js/main.09261642.js",
+    "static/media/pizza-3.jpg": "/static/media/pizza-3.f2f9b9a49128f877c57f.jpg",
+    "static/media/featured3.jpg": "/static/media/featured3.66d68644270582e9ce8d.jpg",
+    "static/media/product-2.jpg": "/static/media/product-2.4c066971ce4367c6e0bc.jpg",
+    "static/media/product-1.jpg": "/static/media/product-1.36d084f3e4823b981b4b.jpg",
+    "static/media/sweet-2.jpg": "/static/media/sweet-2.d5cf1ad2859c7af98ea3.jpg",
+    "static/media/sweet3.jpg": "/static/media/sweet3.c495c74278ec63462c5e.jpg",
+    "static/media/product-3.jpg": "/static/media/product-3.115cc32b63d9b7485e7e.jpg",
+    "static/media/sweet-3.jpg": "/static/media/sweet-3.badeecbe98eb1e099fce.jpg",
+    "index.html": "/index.html",
+    "main.09261642.js.map": "/static/js/main.09261642.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.09261642.js"
+  ]
+}
