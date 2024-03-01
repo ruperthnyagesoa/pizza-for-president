@@ -1,30 +1,40 @@
 # Pizza-for-president Landing page made with React
 
-A Pizza Site built with React.
-
 ## Demo
 
 [Link](https://pizza-for-president.vercel.app/)
 
-## Getting Started
+## Features :fire:
 
-Clone this repo, and make sure to run the commands mentioned below from your terminal within the root project directory.
+:pizza: Scroll Effect<br>
+:pizza: Reusable components<br>
+:pizza: Responsive sidebar<br>
+:pizza: Amazing hero section!<br>
+:pizza: Semantic HTML5!<br>
 
-### Prerequisites
 
-Make use Node.js is installed, and npm is up to date:
+## Packages Used :
+:orange_book: React Scroll<br>
+:orange_book: React Router DOM<br>
+:orange_book: Styled Components<br>
+:orange_book: React Icons<br>
+:orange_book: React Reveal<br>
 
-    npm@latest -g
 
-Run the provided setup script:
+## Installation
 
-    npm run setup
+Clone the repo in your terminal writting:
 
-Run and debug the application with the dev script:
+#### `$ git clone https://github.com/ruperthnyagesoa/pizza-for-president/
+In the project directory, you can run:
 
-    npm run dev
+#### `npm start`
 
-Build and run the compiled version with the build and start scripts:
+Runs the app in the development mode.
 
-    npm run build
-    npm run start
+#### `npm run eject`
+
+## TODO :computer:
+
+:pushpin: Implement LogIn and Register session
+
