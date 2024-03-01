@@ -1,4 +1,4 @@
-# Pizza-for-president Landing page made with React
+# Pizza Page
 
 ## Demo
 
