@@ -1,40 +1,39 @@
-# Pizza Page
+# PIZZA FOR PRESIDENT
 
 ## Demo
 
-[Link](https://pizza-for-president.vercel.app/)
+[Link](https://pizza-for-president.vercel.app)
 
-## Features :fire:
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [Illustrations](#illustrations)
 
+## General info
+This is pizza react application .It's a landing page with features with enlighting features.
+## Technologies
+Project is created with:
+* HTML,CSS
+* Javascript(React)
+
+## Setup
+To run this project, Clone this repo to your desktop:
+- Execute the following commands from your command line/terminal:
+```
+$ npm install
+$ npm start
+```
+
+## Features
 :pizza: Scroll Effect<br>
 :pizza: Reusable components<br>
 :pizza: Responsive sidebar<br>
 :pizza: Amazing hero section!<br>
 :pizza: Semantic HTML5!<br>
 
-
-## Packages Used :
-:orange_book: React Scroll<br>
-:orange_book: React Router DOM<br>
-:orange_book: Styled Components<br>
-:orange_book: React Icons<br>
-:orange_book: React Reveal<br>
-
-
-## Installation
-
-Clone the repo in your terminal writting:
-
-#### `$ git clone https://github.com/ruperthnyagesoa/pizza-for-president/
-In the project directory, you can run:
-
-#### `npm start`
-
-Runs the app in the development mode.
-
-#### `npm run eject`
-
-## TODO :computer:
-
-:pushpin: Implement LogIn and Register session
-
+## Illustrations
+![Alt text](/pics/pizza1.png?raw=true)
+![Alt text](/pics/pizza2.png?raw=true)
+![Alt text](/pics/pizza3.png?raw=true)
